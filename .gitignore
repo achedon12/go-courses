@@ -1,0 +1,13 @@
+.idea
+
+# Fichiers compilés Go
+main
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Dossiers de compilation
+dist/
+build/
+
